@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top-bar {
+    margin: auto; 
+    text-align: center;
+    background: #333;
+    color: #fff;
+    padding: 0.5rem;
+}
+
+.btn {
+    background: darkgreen;
+    height: 25px;
+    width: 150px;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+#library {
+    position: absolute;
+    left: 5px;
+}
+
+.page-info {
+    position: absolute;
+    right: 10px;
+    padding: 0.25rem;
+}
+
+.page-info {
+    margin-left: 1rem;
+}
+
+.error {
+    background: orangered;
+    color: white;
+    padding: 1rem;
+}
+
+.container {
+    text-align: center;
+}
+
+
+
